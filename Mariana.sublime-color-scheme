@@ -1,0 +1,23 @@
+{
+	"variables":
+	{
+	},
+	"globals":
+	{
+		"background": "#253144",
+		"accent": "#f98643",
+		"selection": "#3e4f6d",
+		"selection_border": "#3e4f6d",
+		"line_diff_added": "#02c969",
+		"line_diff_modified": "#f98643",
+		"line_diff_deleted": "#E74856"
+	},
+	"rules":
+	[
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"foreground": "var(orange)"
+		},
+	]
+}

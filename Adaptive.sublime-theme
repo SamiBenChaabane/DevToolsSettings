@@ -1,0 +1,14 @@
+{
+	"variables":
+	{
+		"font_face": "Cantarell Bold",
+		"font_size_sm": 13,
+		"font_size": 13,
+		"font_size_lg": 13,
+		"font_size_title": 24,
+	},
+	"rules":
+	[
+
+	]
+}
